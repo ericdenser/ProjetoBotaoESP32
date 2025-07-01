@@ -1,0 +1,1 @@
+Projeto desenvolvido para a disciplina de Circuitos Elétricos e Eletrônicos. Esta solução visa contribuir para o ODS 3 (Saúde e Bem-Estar), fornecendo um sistema de alerta rápido via botão de facil acionamento, realizando notificações (WhatsApp) e chamadas telefônicas em situações de emergência.
